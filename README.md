@@ -103,3 +103,5 @@ alt="Demo" width="240" height="180" border="10" /></a>
 
 The images used in the Architectural diagram and in the video thumbnail are obtained from Google images.
 
+
+[![Python application test with Github Actions](https://github.com/Muhammed-Firoz/azure-pipeline-Github-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/Muhammed-Firoz/azure-pipeline-Github-Actions/actions/workflows/main.yml)
