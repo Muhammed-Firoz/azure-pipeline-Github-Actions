@@ -1,6 +1,6 @@
 # Overview
 
-This project is to deploy a flask based ML webapp in the azure webapp serviceand toconduct load test on it using locust. The webapp deployment is automated using azure pipeline.
+This project is to deploy a flask based ML webapp in the azure webapp serviceand to conduct load test on it using locust. The webapp deployment is automated using azure pipeline.
 
 ## Project Plan
 Project Plan
